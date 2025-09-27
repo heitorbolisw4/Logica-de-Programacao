@@ -1,0 +1,8 @@
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\VT - Atividade 1\BiblioSystem\bin\Debug\BiblioSystem.exe.config
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\VT - Atividade 1\BiblioSystem\bin\Debug\BiblioSystem.exe
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\VT - Atividade 1\BiblioSystem\bin\Debug\BiblioSystem.pdb
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\VT - Atividade 1\BiblioSystem\obj\Debug\BiblioSystem.csproj.AssemblyReference.cache
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\VT - Atividade 1\BiblioSystem\obj\Debug\BiblioSystem.csproj.CoreCompileInputs.cache
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\VT - Atividade 1\BiblioSystem\obj\Debug\BiblioSystem.exe
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\VT - Atividade 1\BiblioSystem\obj\Debug\BiblioSystem.pdb
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\VT - Atividade 1\BiblioSystem\obj\Debug\BiblioSystem.exe.config
