@@ -1,0 +1,8 @@
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\Logica de Programação com C#\VT - Atividade 2\bin\Debug\VT - Atividade 2.exe.config
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\Logica de Programação com C#\VT - Atividade 2\bin\Debug\VT - Atividade 2.exe
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\Logica de Programação com C#\VT - Atividade 2\bin\Debug\VT - Atividade 2.pdb
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\Logica de Programação com C#\VT - Atividade 2\obj\Debug\VT - Atividade 2.csproj.AssemblyReference.cache
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\Logica de Programação com C#\VT - Atividade 2\obj\Debug\VT - Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\Logica de Programação com C#\VT - Atividade 2\obj\Debug\VT - Atividade 2.exe
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\Logica de Programação com C#\VT - Atividade 2\obj\Debug\VT - Atividade 2.pdb
+C:\Users\heito\Documents\Estudos\estudos .Net\estudosC#\Logica de Programação com C#\VT - Atividade 2\obj\Debug\VT - Atividade 2.exe.config
